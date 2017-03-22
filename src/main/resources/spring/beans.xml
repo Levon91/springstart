@@ -18,6 +18,7 @@
 
     <!--<import resource="example7.xml"/>-->
 
-    <import resource="example8.xml"/>
+    <!--<import resource="example8.xml"/>-->
 
+    <import resource="example9.xml"/>
 </beans>
